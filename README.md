@@ -10,7 +10,7 @@ Review incoming and outgoing calls by representative, compare the top representa
 
 [Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/mohammed.rawther/viz/TelecomCompanySalesRepCallPerformanceAnalysis/SalesRepresentativeandCallsPerformance)
 
-![Telecom Company Sales Rep and Call Performance dashboard](https://public.tableau.com/views/TelecomCompanySalesRepCallPerformanceAnalysis/SalesRepresentativeandCallsPerformance.png?:showVizHome=no)
+![Telecom Company Sales Rep and Call Performance dashboard](screenshots/telecom-sales-rep-call-performance.jpg)
 
 ### Telecom Company Branch Sales Analysis
 
@@ -18,7 +18,7 @@ Compare call volume across the North and South branches and see how call purpose
 
 [Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/mohammed.rawther/viz/TelecomCompanyBranchSalesAnalysis/CompanySalesBranchesComparison)
 
-![Telecom Company Branch Sales dashboard](https://public.tableau.com/views/TelecomCompanyBranchSalesAnalysis/CompanySalesBranchesComparison.png?:showVizHome=no)
+![Telecom Company Branch Sales dashboard](screenshots/telecom-branch-sales.jpg)
 
 ## Project files
 
